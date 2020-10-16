@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
-I Aliu Welcome to my homepage 💬
+I Aliu, Welcome to my homepage 💬
 
 
 <!--
