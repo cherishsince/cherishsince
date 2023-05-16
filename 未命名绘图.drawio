@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:32:14.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XvV7Z1_av3h9FJIcXpJB" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:35:11.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6pqex7TvmF1RSnVYshlx" version="21.3.2" type="github">
   <diagram name="第 1 页" id="hYwSPWnD0R3mvGRATKQR">
-    <mxGraphModel dx="1506" dy="2063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2082" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="962obIwDHnLTAN8AyWVL-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-10" width="320" height="110" as="geometry" />
+        <mxCell id="962obIwDHnLTAN8AyWVL-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;curved=1;dashed=1;" edge="1" parent="1" source="962obIwDHnLTAN8AyWVL-1" target="962obIwDHnLTAN8AyWVL-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="230" width="450" height="220" as="geometry" />
+          <mxGeometry x="230" y="290" width="450" height="160" as="geometry" />
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-5" value="文件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="225" width="120" height="60" as="geometry" />
@@ -46,38 +46,47 @@
         <mxCell id="962obIwDHnLTAN8AyWVL-27" value="解决多端兼容问题，统一维护" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="713.75" y="73.12" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="962obIwDHnLTAN8AyWVL-29" value="Nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="230" y="140" width="450" height="40" as="geometry" />
+        <mxCell id="962obIwDHnLTAN8AyWVL-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="450" height="90" as="geometry" />
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7.2;endSize=4;endWidth=11.8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="188" as="sourcePoint" />
-            <mxPoint x="400" y="223" as="targetPoint" />
+            <mxPoint x="-5.000000000000014" y="190" as="sourcePoint" />
+            <mxPoint x="-5.000000000000014" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7.2;endSize=4;endWidth=11.8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365" y="188" as="sourcePoint" />
-            <mxPoint x="365" y="223" as="targetPoint" />
+            <mxPoint x="-40.000000000000014" y="190" as="sourcePoint" />
+            <mxPoint x="-40.000000000000014" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7.2;endSize=4;endWidth=11.8;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="509" y="223" as="sourcePoint" />
-            <mxPoint x="509.43" y="188" as="targetPoint" />
+            <mxPoint x="103.99999999999999" y="225" as="sourcePoint" />
+            <mxPoint x="104.42999999999999" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=7.2;endSize=4;endWidth=11.8;strokeColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="543" y="223" as="sourcePoint" />
-            <mxPoint x="543" y="188" as="targetPoint" />
+            <mxPoint x="138" y="225" as="sourcePoint" />
+            <mxPoint x="138" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-38" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="-140" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-41" value="微信小程序商店" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="-50" width="110" height="30" as="geometry" />
+          <mxGeometry x="194" y="-29" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="962obIwDHnLTAN8AyWVL-45" value="请求分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="175" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="962obIwDHnLTAN8AyWVL-46" value="Nginx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="416.25" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="962obIwDHnLTAN8AyWVL-47" value="WEB(网页)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="175" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
