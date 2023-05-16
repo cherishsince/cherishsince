@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:35:11.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="6pqex7TvmF1RSnVYshlx" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:37:15.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="peel2KUnnQdsWB5FWjw0" version="21.3.2" type="github">
   <diagram name="第 1 页" id="hYwSPWnD0R3mvGRATKQR">
     <mxGraphModel dx="2082" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,13 +80,19 @@
           <mxGeometry x="194" y="-29" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-45" value="请求分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="175" width="120" height="40" as="geometry" />
+          <mxGeometry x="245" y="175" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="962obIwDHnLTAN8AyWVL-46" value="Nginx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="416.25" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="962obIwDHnLTAN8AyWVL-47" value="WEB(网页)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="175" width="120" height="40" as="geometry" />
+        <mxCell id="962obIwDHnLTAN8AyWVL-47" value="静态文件托管-WEB(网页)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="175" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="962obIwDHnLTAN8AyWVL-49" value="非法请求拦截过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="175" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="962obIwDHnLTAN8AyWVL-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" edge="1" parent="1" source="962obIwDHnLTAN8AyWVL-14" target="962obIwDHnLTAN8AyWVL-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
