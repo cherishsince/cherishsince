@@ -1,12 +1,13 @@
-### Hi 👋
-
-
-I Aliu, Welcome to my homepage 💬
-
 ![img](huanying.gif)
 
 <!--
 **cherishsince/cherishsince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### Hi 👋
+
+
+I Aliu, Welcome to my homepage 💬
 
 Here are some ideas to get you started:
 
