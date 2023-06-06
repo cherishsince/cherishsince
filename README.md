@@ -3,6 +3,7 @@
 
 I Aliu, Welcome to my homepage 💬
 
+![avatar]([/home/picture/1.png](https://c-ssl.duitang.com/uploads/item/201905/04/20190504092010_4fWZP.gif))
 
 <!--
 **cherishsince/cherishsince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
